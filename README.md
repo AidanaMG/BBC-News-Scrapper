@@ -7,6 +7,3 @@ Python script that scrapes a BBC news article and saves the title, date, and ful
 - BeautifulSoup
 - urllib
 
-## Output
-- `Scrapper.csv`
-- `Scrapper.txt`
